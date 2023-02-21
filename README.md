@@ -1,4 +1,5 @@
-![Header](https://github.com/nitin17082002/nitin17082002/blob/main/github-header-image.png)
+<h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
+<h3 align="center">A passionate Web developer from India.</h3>
 
 
 - 🌱 I’m currently learning **React.js**
